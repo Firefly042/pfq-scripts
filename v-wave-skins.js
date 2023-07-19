@@ -11,7 +11,8 @@
 // ==/UserScript==
 
 // Substitute your preferred skins here!
-// Believe me, mine are not very good.
+// I didn't even make some of these, so you'll get the default PFQ skin half the time.
+// And the ones I did make are not particularly good.
 const skins = {
     "Normal": "JSBw/normal",
     "Fire": "JSBw/fire",
